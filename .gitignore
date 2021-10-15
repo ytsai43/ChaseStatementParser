@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.ipynb
+tabula_statementParse.py
+CSV/
+statements/
+test.txt
+/.idea
+

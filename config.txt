@@ -1,0 +1,4 @@
+[config]
+INPUT_DIRECTORY = .\statements
+OUTPUT_DIRECTORY = C:\Users\ytsai
+PDF_FILENAME = 20210502-statements-3033-.pdf
