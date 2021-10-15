@@ -1,4 +1,9 @@
-################　　statementParser.py   ###############
+Introduction:
+The project is to parse Chase statement pdf file and extract transaction information. The parser parses all the transactions and organize the entry which is transactions happened in Taiwan and output them as table with columns: <br> 
+**Transaction date, Transaction name, NTD, USD** <br>
+note: all the transactions happened in US are removed in output csv file
+
+################　　statementParser.py   ############### <br>
 Library requirments:
 - Pandas
 - PyPDF2
@@ -14,7 +19,7 @@ The output csv file will refer to the input pdf name and exports a same name fil
 
 
 
-
+[IGNORE below] <br>
 ################　　tabula_statementParse.py (obsolete version)   ###############
 Library requirments:
 - Pandas
